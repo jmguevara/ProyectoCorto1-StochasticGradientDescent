@@ -1,21 +1,19 @@
 Jupyter:
-Jupyter es una aplicaciÛn que permite crear documentos (notebooks) que contienen tanto cÛdigo ejecutable como fÛrmulas, ecuaciones y texto simple. Esto ayuda en planteamientos de problemas de simulaciÛn, modelado, visualizaciÛn de datos entre otros.
+Jupyter es una aplicaci√≥n que permite crear documentos (notebooks) que contienen tanto c√≥digo ejecutable como f√≥rmulas, ecuaciones y texto simple. Esto ayuda en planteamientos de problemas de simulaci√≥n, modelado, visualizaci√≥n de datos entre otros.
 
-InstalaciÛn de Jupyter:
-Para la instalaciÛn de Jupyter se requiere la librerÌa de Python PyPi (pypi.org). Esta librerÌa nos permitir· instalar Jupyter mediante el comando -pip install jupyter-. Si desea inicializarse en un puerto diferente basta agregar -port - y el n˙mero de puerto deseado. 
+Instalaci√≥n de Jupyter:
+Para la instalaci√≥n de Jupyter se requiere la librer√≠a de Python PyPi (pypi.org). Esta librer√≠a nos permitir√° instalar Jupyter mediante el comando -pip install jupyter-. Si desea inicializarse en un puerto diferente basta agregar -port - y el n√∫mero de puerto deseado. 
 
 Jupyter notebook:
-Para crear un notebook se debe ingresar el comando Jupyter notebook, esto crear· la instancia que ser· utilizada y por defecto, desplegar· el navegador web predeterminado en localhost:8888.
+Para crear un notebook se debe ingresar el comando Jupyter notebook, esto crear√° la instancia que ser√° utilizada y por defecto, desplegar√° el navegador web predeterminado en localhost:8888.
 
-LibrerÌas necesarias:
-En el ejemplo se hace uso de las siguientes librerÌas:
-    MatPlotLib: LibrerÌa gr·fica
-    NumPy: LibrerÌa matem·tica
-    ArgParse: LibrerÌa usada para el an·lisis (parser) de argumentos
-    SkLearn: Usada principalmente para el an·lisis de datos
+Librer√≠as necesarias:
+En el ejemplo se hace uso de las siguientes librer√≠as:
+    MatPlotLib: Librer√≠a gr√°fica
+    NumPy: Librer√≠a matem√°tica
+    ArgParse: Librer√≠a usada para el an√°lisis (parser) de argumentos
+    SkLearn: Usada principalmente para el an√°lisis de datos
 
-Para aÒadir las librerÌas, de manera similar a Jupyter, debe escribirse el el comando 
+Para a√±adir las librer√≠as, de manera similar a Jupyter, debe escribirse el el comando 
 
--pip install- seguido del nombre de la librerÌa.
-
-URL del proyecto en Github:
+-pip install- seguido del nombre de la librer√≠a.
